@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **I'm a student at Ho Chi Minh City University of Technology, majoring in Software Engineering. I'm originally from Quang Nam and currently living in Ho Chi Minh City. I'm passionate about coding, web development, and always eager to learn new technologies and improve my skills.**
 
-- 📫 How to reach me **trinhquocbao27092003@gmail.com**
+- 📫 How to reach me **quocbao2793@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
