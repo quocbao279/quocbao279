@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trinh Quoc Bao</h1>
 <h3 align="center">A passionate developer from VietNam, TP.Ho Chi Minh</h3>
 
-- 🌱 I’m currently learning **java,nodejs,reactjs**
+- 🌱 I’m currently learning **advanced C#, Dart, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quocbao279](https://github.com/quocbao279)
 
